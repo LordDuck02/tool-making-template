@@ -1,5 +1,6 @@
+--[[
 ### Tool making template (By Lord Duck#7113)
-
+--]]
 
 tool = Instance.new("Tool") --Creation  
 
